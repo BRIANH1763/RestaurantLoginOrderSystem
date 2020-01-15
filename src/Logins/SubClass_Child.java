@@ -3,19 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package loginsystem;
+package Logins;
 
 /**
  *
  * @author b-hou
  */
-public class LoginSystem {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+public class SubClass_Child  extends SuperClass_Parent{
+     
     
 }
